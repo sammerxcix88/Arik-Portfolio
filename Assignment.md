@@ -1,4 +1,5 @@
 Portillos Test
 
 
-![sample text](Images_ScreenShot/"gituploadtest.png")
+![sample text](Images/test.png)
+
